@@ -11,12 +11,12 @@ body {
 
 header {
   position: fixed;
-  top: 0px;
+  top: 0;
 }
 
-.lado-esquerdo, .lado-direito {
+.lado-esquerdo , .lado-direito {
+  width: 50%;
   float: left;
-  width: 50%; float: left;
 }
 
 footer {
@@ -24,6 +24,6 @@ footer {
   bottom: auto;
 }
 
-#article, #a {
+#article , #a {
   display: inline-block;
 }
