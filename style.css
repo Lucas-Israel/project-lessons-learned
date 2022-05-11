@@ -13,3 +13,17 @@ header {
   position: fixed;
   top: 0px;
 }
+
+.lado-esquerdo, .lado-direito {
+  float: left;
+  width: 50%; float: left;
+}
+
+footer {
+  position: absolute;
+  bottom: auto;
+}
+
+#article, #a {
+  display: inline-block;
+}
