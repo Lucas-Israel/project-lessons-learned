@@ -15,6 +15,13 @@ images/
 
 #### :warning: todos os outros arquivos foram desenvolvidos pela [Trybe](https://www.betrybe.com).
 
+# :thinking: Como checar o projeto
+
+```
+git clone git@github.com:Lucas-Israel/project-lessons-learned.git
+npm install
+npm test
+```
 
 # :trophy: Percentual de conclusão do projeto
 
