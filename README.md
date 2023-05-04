@@ -20,7 +20,7 @@ images/
 ```
 git clone git@github.com:Lucas-Israel/project-lessons-learned.git
 npm install
-npm test
+rodar index.html
 ```
 
 # :calendar: Datas para desenvolvimento
